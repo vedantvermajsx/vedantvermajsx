@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi! I'm Vedant verma 👋</h1>
+<h1 align="center">Hi! I'm Vedant Verma 👋</h1>
 
 ---
 
@@ -53,11 +52,11 @@
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.coo/vedant_verma786?theme=dark&font=Roboto&extension=null)](https://leetcode.com/vedant_verma786)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vedant_verma786?theme=dark&font=Roboto)](https://leetcode.com/vedant_verma786)
 
 ### GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshshadow222&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant_verma786&layout=compact&theme=tokyonight)
 
 ---
 
@@ -65,6 +64,10 @@
 
 | Company | Account |
 |--------|---------|
-| <img src="https://img.shields.io/badge/FanDuel-003A70?style=flat&logo=fanduel&logoColor=white"/> | [@fanduel-shadow](https://github.com/creepJxvedant) |
+| Fanduel | [@creepJxvedant](https://github.com/creepJxvedant) |
 
 ---
+
+## 🌐 Portfolio
+
+Check out my portfolio: [portfolio](https://creepjxvedant.pages.dev)
