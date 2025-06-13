@@ -56,7 +56,7 @@
 
 ### GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant_verma786&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creepJxvedant&layout=compact&theme=tokyonight)
 
 ---
 
@@ -64,7 +64,7 @@
 
 | Company | Account |
 |--------|---------|
-| Fanduel | [@creepJxvedant](https://github.com/creepJxvedant) |
+| creepJxVedant | [@creepJxvedant](https://github.com/creepJxvedant) |
 
 ---
 
