@@ -64,10 +64,10 @@
 
 | Company | Account |
 |--------|---------|
-| creepJxVedant | [@creepJxvedant](https://github.com/creepJxvedant) |
+| creepJxVedant | [@creepJxvedant](https://github.com/creepJxvedan) |
 
 ---
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [portfolio](https://creepjxvedant.pages.dev)
+Check out my portfolio: [portfolio](https://creepjxvedant.onrender.com/)
