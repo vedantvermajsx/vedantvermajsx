@@ -56,7 +56,7 @@
 
 ### GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creepJxvedant&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantvermajsx&layout=compact&theme=tokyonight)
 
 ---
 
@@ -64,10 +64,10 @@
 
 | Company | Account |
 |--------|---------|
-| creepJxVedant | [@creepJxvedant](https://github.com/creepJxvedan) |
+| none | [@vedantverma](https://github.com/vedantvermajsx) |
 
 ---
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [portfolio](https://creepjxvedant.onrender.com/)
+Check out my portfolio: [portfolio](https://vedantverma.onrender.com/)
