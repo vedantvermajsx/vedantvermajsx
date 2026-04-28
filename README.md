@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 Coding Stats
+## Coding Stats
 
 ### LeetCode
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🏢 Work GitHub Accounts
+##  Work GitHub Accounts
 
 | Company | Account |
 |--------|---------|
@@ -68,6 +68,6 @@
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 Check out my portfolio: [portfolio](https://vedantverma.onrender.com/)
